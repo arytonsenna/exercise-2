@@ -3,9 +3,9 @@
 This week we will create geometries, reproject data and do geometric calculations using Geopandas (+ Shapely and pyproj).
 
 
-- **Exercise 2 is due by the start of the next lesson**.
+- **Exercise 2 is due by 5pm on Thursday the 12th of November 2020 (day before the next practical session)**.
 
-- Don't forget to check out the [hints for this week's exercise](https://automating-gis-processes.github.io/site/lessons/L2/exercise-2.html) if you're having trouble.
+- Don't forget to check out the [hints for this week's exercise](https://autogis-site.readthedocs.io/en/latest/lessons/L2/exercise-2.html#hints) if you're having trouble.
 
 - Scores on this exercise are out of **20 points**.
 
